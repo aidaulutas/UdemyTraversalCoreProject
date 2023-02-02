@@ -1,0 +1,13 @@
+
+BusinessLayer/bin
+BusinessLayer/obj
+DataAccessLayer/bin
+DataAccessLayer/obj
+EntityLayer/bin
+EntityLayer/obj
+TraversalCoreProje/bin
+TraversalCoreProje/obj
+.idea
+.vs
+git rm -r --cached bin
+
